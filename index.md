@@ -1,7 +1,7 @@
-## Justin Chumbley
+## Justin Chumbley [linkedin](https://www.linkedin.com/in/chumbleycode)
 
 [Parameter ranking](credible_ranks.md)
 
 [Bayesian life course models.](life_course.md)
 
-[linkedin](https://www.linkedin.com/in/chumbleycode)
+
