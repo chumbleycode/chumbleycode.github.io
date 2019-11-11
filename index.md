@@ -1,5 +1,5 @@
 ## Justin Chumbley
 
-[a relative link](page1.md)
+[Parameter ranking](page1.md)
 
 ##
