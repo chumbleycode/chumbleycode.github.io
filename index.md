@@ -1,4 +1,4 @@
-[cv](credible_ranks.md), [linkedin](https://www.linkedin.com/in/chumbleycode)
+[cv](http://chumbleycode.github.io/chumbleycode.github.io/docs/cv.pdf), [linkedin](https://www.linkedin.com/in/chumbleycode)
 
 ## Projects
 [Parameter ranking](credible_ranks.md)
