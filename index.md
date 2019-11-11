@@ -1,4 +1,4 @@
-## Justin Chumbley
+# Justin Chumbley
 
 [cv](http://chumbleycode.github.io/chumbleycode.github.io/docs/cv.pdf), [linkedin](https://www.linkedin.com/in/chumbleycode)
 
