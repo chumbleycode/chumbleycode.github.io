@@ -1,4 +1,3 @@
-## Justin Chumbley 
 [cv](credible_ranks.md), [linkedin](https://www.linkedin.com/in/chumbleycode)
 
 ## Projects
