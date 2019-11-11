@@ -1,6 +1,6 @@
 ## 
 
-<a href="page1.html">Page 2</a>
+<a href="page1.html">Page 1</a>
 
 
 ##
