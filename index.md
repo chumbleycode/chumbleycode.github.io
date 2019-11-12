@@ -12,7 +12,7 @@ keywords: functional imaging and genomics
 
 
 [<img src="docs/finest_order1.png" alt="drawing" width="400">](docs/fcr_apa.pdf)
-[<img src="docs/JRC.jpg" alt="drawing" width="400">]()
+[<img src="docs/JRCsquare.jpg" alt="drawing" width="400">]()
 [<img src="docs/finest_order2.png" alt="drawing" width="400">](docs/fcr_apa.pdf) <br/>
 [<img src="docs/finest_order1.png" alt="drawing" width="400">](docs/fcr_apa.pdf)
 [<img src="docs/finest_order2.png" alt="drawing" width="400">](docs/fcr_apa.pdf) 
