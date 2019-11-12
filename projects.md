@@ -15,6 +15,7 @@ keywords: functional imaging and genomics
 
 
 ## Projects
+
 [Parameter ranking](credible_ranks.md)
 
 [Bayesian life course models](life_course.md)
