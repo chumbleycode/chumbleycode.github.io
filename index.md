@@ -13,6 +13,13 @@ keywords: functional imaging and genomics
 [[projects](projects.md)]
 [[publications](https://scholar.google.com/citations?hl=en&user=YbbXlwIAAAAJ)]
 
+
+<figure>
+   [<img src="docs/JRCsquare.jpg" alt="drawing" width="400">](http://chumbleycode.github.io/chumbleycode.github.io/docs/cv.pdf)  <br/>
+  <figcaption>Caption goes here</figcaption>
+</figure>
+
+
 [<img src="docs/JRCsquare.jpg" alt="drawing" width="400">](http://chumbleycode.github.io/chumbleycode.github.io/docs/cv.pdf)  <br/>
 
 aoesu aoeu asoeuh saoenh usanoeh usna oeua oeuaoeubaoeu aeou aoesu aoeu asoeuh saoenh usanoeh usna oeua oeuaoeubaoeu aeou aoesu aoeu asoeuh saoenh 
