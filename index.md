@@ -20,4 +20,4 @@ keywords: functional imaging and genomics
  
 <br/> 
 <br/> 
-[more figures...](more_figures.md)
+[\huge more figures...](more_figures.md)
