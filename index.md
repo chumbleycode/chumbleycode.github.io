@@ -24,7 +24,7 @@ keywords: functional imaging and genomics
 <tr>
   <td class="left">
     <a href="docs/fcr_apa.pdf">
-        <img src="docs/finest_order2.png" alt="" title=""/>
+        <img src="docs/finest_order2.png" alt="" title=""/ width="200">
     </a>
   </td>
   <td class="right">
@@ -36,7 +36,7 @@ keywords: functional imaging and genomics
 <tr>
   <td class="left">
     <a href="docs/fcr_apa.pdf">
-        <img src="docs/finest_order2.png" alt="" title=""/>
+        <img src="docs/finest_order2.png" alt="" title="" width="200" />
     </a>
   </td>
   <td class="right">
