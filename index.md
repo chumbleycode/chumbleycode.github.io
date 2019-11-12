@@ -20,4 +20,44 @@ keywords: functional imaging and genomics
 [Parameter ranking.](credible_ranks.md)
 
 [Bayesian life course models.](life_course.md)
+ 
+ 
+
+<table class="wide">
+<tr>
+  <td class="left">
+    <a href="docs/fcr_apa.pdf">
+        <img src="docs/finest_order2.png" alt="" title=""/>
+    </a>
+  </td>
+  <td class="right">
+    <a href="docs/fcr_apa.pdf">
+        <img src="docs/finest_order1.png" alt="Broman et
+        al. (2019) Fig 4" title="Broman et al. (2019) Fig 4"/>
+    </a>
+  </td>
+</tr>
+<tr>
+  <td class="left">
+    <a href="docs/fcr_apa.pdf">
+        <img src="docs/finest_order2.png" alt="" title=""/>
+    </a>
+  </td>
+  <td class="right">
+    <a href="docs/fcr_apa.pdf">
+        <img src="docs/finest_order1.png" alt="Broman et
+        al. (2019) Fig 4" title="Broman et al. (2019) Fig 4"/>
+    </a>
+  </td>
+</tr>
+</table>
+
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href="morefigs.html">more figures</a></li>
+      </ul>
+  </div>
+</div>
+
 
