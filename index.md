@@ -5,8 +5,7 @@ description: Statistician
 keywords: functional imaging and genomics
 ---
 
-<p align="center">
-# Justin Chumbley
+-> Justin Chumbley <-
  
 [[cv](http://chumbleycode.github.io/chumbleycode.github.io/docs/cv.pdf)] [[linkedin](https://www.linkedin.com/in/chumbleycode)] [[github](https://github.com/chumbleycode/)]
 
@@ -20,4 +19,3 @@ keywords: functional imaging and genomics
 
 [Bayesian life course models.](life_course.md)
 
-</p>
