@@ -5,15 +5,16 @@ description: Statistician
 keywords: functional imaging and genomics
 ---
 
--> Justin Chumbley <-
+# Justin Chumbley
  
 [[cv](http://chumbleycode.github.io/chumbleycode.github.io/docs/cv.pdf)] [[linkedin](https://www.linkedin.com/in/chumbleycode)] [[github](https://github.com/chumbleycode/)]
 
+<p align="center">
 [<img src="docs/finest_order1.png" alt="drawing" width="200">](docs/fcr_apa.pdf)
 [<img src="docs/finest_order2.png" alt="drawing" width="200">](docs/fcr_apa.pdf)
 
 [more figures](more_figures.md)
-
+</p>
 ## Projects
 [Parameter ranking.](credible_ranks.md)
 
