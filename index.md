@@ -12,6 +12,7 @@ keywords: functional imaging and genomics
 
 [<img src="docs/finest_order1.png" alt="drawing" width="200">](docs/fcr_apa.pdf)
 [<img src="docs/finest_order2.png" alt="drawing" width="200">](docs/fcr_apa.pdf)
+
 [more figures](more_figures.md)
 
 ## Projects
