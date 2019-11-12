@@ -15,6 +15,7 @@ keywords: functional imaging and genomics
 
 [more figures](more_figures.md)
 </p>
+
 ## Projects
 [Parameter ranking.](credible_ranks.md)
 
