@@ -23,11 +23,8 @@ keywords: functional imaging and genomics
 [<img src="docs/fdr_imaging.jpg" alt="drawing" width="400">](https://www.sciencedirect.com/science/article/pii/S1053811908006472) <br/> 
 
 [<img src="docs/learning.png" alt="drawing" width="400">](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002346)
-[<img src="docs/fdr_imaging.jpg" alt="drawing" width="400">](https://www.sciencedirect.com/science/article/pii/S1053811908006472) <br/> 
-
-[<img src="docs/finest_order2.png" alt="drawing" width="400">](docs/fcr_apa.pdf)
-[<img src="docs/fdr_imaging.jpg" alt="drawing" width="400">](https://www.sciencedirect.com/science/article/pii/S1053811908006472) <br/> 
-
+[<img src="docs/multinomial_spm.jpg" alt="drawing" width="400">](https://www.sciencedirect.com/science/article/pii/S1053811910008281)<br/> 
+ 
 <br/> 
 <br/> 
 [more figures...](more_figures.md)
