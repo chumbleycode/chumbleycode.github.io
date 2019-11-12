@@ -16,7 +16,7 @@ keywords: functional imaging and genomics
 [<img src="docs/JRCsquare.jpg" alt="drawing" width="300">]()
 [<img src="docs/finest_order1.png" alt="drawing" width="400">](docs/fcr_apa.pdf)  <br/>
 [<img src="docs/finest_order2.png" alt="drawing" width="400">](docs/fcr_apa.pdf)
-[<img src="docs/finest_order1.png" alt="drawing" width="400">](docs/fcr_apa.pdf) <br/> 
+[<img src="docs/fdr_imaging.jpg" alt="drawing" width="400">](https://www.sciencedirect.com/science/article/pii/S1053811908006472) <br/> 
 
 <br/> 
 <br/> 
