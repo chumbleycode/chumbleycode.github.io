@@ -15,13 +15,7 @@ keywords: functional imaging and genomics
           <li><a href="https://kbroman.org/blog">blog</a></li>
       </ul>
   </div>
-</div>
+</div> 
 
-2.
-[![Foo](docs/finest_order1.png)](docs/fcr_apa.pdf =29x200)
-
-2.
-[![Foo](docs/finest_order1.png )](docs/fcr_apa.pdf)
-
-3. 
 [<img src="docs/finest_order1.png" alt="drawing" width="200">](docs/fcr_apa.pdf)
+[<img src="docs/finest_order2.png" alt="drawing" width="200">](docs/fcr_apa.pdf)
