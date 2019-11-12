@@ -24,7 +24,5 @@ aoesu aoeu asoeuh saoenh usanoeh usna oeua oeuaoeubaoeu  <br/>
 
 [<img src="docs/multinomial_spm.jpg" alt="drawing" width="400">](https://www.sciencedirect.com/science/article/pii/S1053811910008281)<br/> 
 aoesu aoeu asoeuh saoenh usanoeh usna oeua oeuaoeubaoeu   <br/>
-
-<br/> 
-<br/> 
+ 
 [more figures...](more_figures.md)
