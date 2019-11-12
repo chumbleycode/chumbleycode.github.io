@@ -15,7 +15,7 @@ keywords: functional imaging and genomics
 
 [<img src="docs/JRCsquare.jpg" alt="drawing" width="200">](http://chumbleycode.github.io/chumbleycode.github.io/docs/cv.pdf) <br/>
 
-[<img src="docs/finest_order1.png" alt="drawing" width="200">](docs/fcr_apa.pdf) <br/>
+[<img src="docs/finest_order1.png" alt="drawing" width="200">](docs/fcr_apa.pdf#page=27) <br/>
  
 [<img src="docs/finest_order2.png" alt="drawing" width="200">](docs/fcr_apa.pdf) <br/>
 
