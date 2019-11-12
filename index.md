@@ -1,10 +1,3 @@
-<script> 
-$(function(){
-  $("#header").load("header.html"); 
-  $("#footer").load("footer.html"); 
-});
-</script>
-
 # Justin Chumbley
 
 [[cv](http://chumbleycode.github.io/chumbleycode.github.io/docs/cv.pdf)] [[linkedin](https://www.linkedin.com/in/chumbleycode)] [[github](https://github.com/chumbleycode/)] [[projects](projects.md)]
@@ -20,11 +13,3 @@ $(function(){
 <br/> 
 <br/> 
 [more figures...](more_figures.md)
-
-
-
-<div id="header"></div>
-<!--Remaining section-->
-<div id="footer"></div>
-</body>
-</html>
