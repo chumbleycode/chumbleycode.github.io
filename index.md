@@ -15,5 +15,5 @@ keywords: functional imaging and genomics
   </div>
 </div>
 
-[![Foo](docs/finest_order1.png)](docs/fcr_apa.pdf)
-[cv](docs/finest_order1.png)
+[![Foo](docs/finest_order1.png =10x10)](docs/fcr_apa.pdf)
+ 
