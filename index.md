@@ -18,9 +18,9 @@ keywords: functional imaging and genomics
 I am an applied statistician with a broad background in behavioral and biological sciences  <br/>
 (economics, psychology, genomics, neuroscience). My work requires self-direction, an ability <br/>
 to clarify and communicate complicated ideas, and the creativity to solve interdisciplinary problems. <br/>
-Click on the figures to learn more about recent work in Bayesian parameter ranking! <br/>
+Click on the figures above to learn more about recent work in Bayesian parameter ranking! <br/>
 
 [<img src="docs/multinomial_spm.jpg" alt="drawing" width="200">](https://www.sciencedirect.com/science/article/pii/S1053811910008281) [<img src="docs/learning.png" alt="drawing" width="200">](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002346) [<img src="docs/fdr_imaging.jpg" alt="drawing" width="200">](https://www.sciencedirect.com/science/article/pii/S1053811908006472) <br/> 
 
-I am an applied statistician with a broad background in behavioral and biological sciences  <br/> 
+Learn more about my work in neuroimaging! <br/> 
 [more figures...](more_figures.md)
