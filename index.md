@@ -13,27 +13,17 @@ keywords: functional imaging and genomics
 [[projects](projects.md)]
 [[publications](https://scholar.google.com/citations?hl=en&user=YbbXlwIAAAAJ)]
 
-
-<figure>
-   [<img src="docs/JRCsquare.jpg" alt="drawing" width="400">](http://chumbleycode.github.io/chumbleycode.github.io/docs/cv.pdf)  <br/>
-  <figcaption>Caption goes here</figcaption>
-</figure>
-
-
 [<img src="docs/JRCsquare.jpg" alt="drawing" width="400">](http://chumbleycode.github.io/chumbleycode.github.io/docs/cv.pdf)  <br/>
-
-aoesu aoeu asoeuh saoenh usanoeh usna oeua oeuaoeubaoeu aeou aoesu aoeu asoeuh saoenh usanoeh usna oeua oeuaoeubaoeu aeou aoesu aoeu asoeuh saoenh 
+aoesu aoeu asoeuh saoenh usanoeh usna oeua oeuaoeubaoeu  
 
 [<img src="docs/finest_order1.png" alt="drawing" width="400">](docs/fcr_apa.pdf)  <br/>
+aoesu aoeu asoeuh saoenh usanoeh usna oeua oeuaoeubaoeu 
 
-aoesu aoeu asoeuh saoenh usanoeh usna oeua oeuaoeubaoeu aeou aoesu aoeu asoeuh saoenh usanoeh usna oeua oeuaoeubaoeu aeou aoesu aoeu asoeuh saoenh  
 [<img src="docs/finest_order2.png" alt="drawing" width="400">](docs/fcr_apa.pdf)  <br/>
-
-aoesu aoeu asoeuh saoenh usanoeh usna oeua oeuaoeubaoeu aeou aoesu aoeu asoeuh saoenh usanoeh usna oeua oeuaoeubaoeu aeou aoesu aoeu asoeuh saoenh  
+aoesu aoeu asoeuh saoenh usanoeh usna oeua oeuaoeubaoeu 
 
 [<img src="docs/multinomial_spm.jpg" alt="drawing" width="400">](https://www.sciencedirect.com/science/article/pii/S1053811910008281)<br/> 
-
-aoesu aoeu asoeuh saoenh usanoeh usna oeua oeuaoeubaoeu aeou aoesu aoeu asoeuh saoenh usanoeh usna oeua oeuaoeubaoeu aeou aoesu aoeu asoeuh saoenh  
+aoesu aoeu asoeuh saoenh usanoeh usna oeua oeuaoeubaoeu  
 
 <br/> 
 <br/> 
