@@ -27,12 +27,9 @@ Learn more about my work in frequentist and Bayesian neuroimaging! <br/>
 
 
  
-|   |   |
+|  <div style="width:290px">property</div>  |   |
 |---|---|
-| [<img src="docs/multinomial_spm.jpg" alt="drawing" width="200">](https://www.sciencedirect.com/science/article/pii/S1053811910008281)  | I am an applied statistician with a broad background in behavioral and biological sciences  <br/>
-(economics, psychology, genomics, neuroscience). My work requires self-direction, an ability <br/>
-to clarify and communicate complicated ideas, and the creativity to solve interdisciplinary problems. <br/>
-Click on the figures above to learn more about recent work in Bayesian parameter ranking! <br/>  |
+| [<img src="docs/multinomial_spm.jpg" alt="drawing" width="200">](https://www.sciencedirect.com/science/article/pii/S1053811910008281)  | asoeuht asoehu asoe uaoeshuao eu aoehu ahose uasoeuht asoehu asoe uaoeshuao eu aoehu ahose uasoeuht asoehu asoe uaoeshuao eu aoehu ahose uasoeuht asoehu asoe uaoeshuao eu aoehu ahose uasoeuht asoehu asoe uaoeshuao eu aoehu ahose uasoeuht asoehu asoe uaoeshuao eu aoehu ahose uasoeuht asoehu asoe uaoeshuao eu aoehu ahose uasoeuht asoehu asoe uaoeshuao eu aoehu ahose uasoeuht asoehu asoe uaoeshuao eu aoehu ahose uasoeuht asoehu asoe uaoeshuao eu aoehu ahose uasoeuht asoehu asoe uaoeshuao eu aoehu ahose uasoeuht asoehu asoe uaoeshuao eu aoehu ahose uasoeuht asoehu asoe uaoeshuao eu aoehu ahose uasoeuht asoehu asoe uaoeshuao eu aoehu ahose u|
 |[<img src="docs/learning.png" alt="drawing" width="200">](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002346)    | 
 I am an applied statistician with a broad background in behavioral and biological sciences  <br/>
 (economics, psychology, genomics, neuroscience). My work requires self-direction, an ability <br/>
