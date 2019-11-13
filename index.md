@@ -15,7 +15,7 @@ keywords: functional imaging and genomics
 
 [<img src="docs/JRCsquare.jpg" alt="drawing" width="200">](http://chumbleycode.github.io/chumbleycode.github.io/docs/cv.pdf) [<img src="docs/finest_order1.png" alt="drawing" width="200">](docs/fcr_apa.pdf#page=26) [<img src="docs/finest_order2.png" alt="drawing" width="200">](docs/fcr_apa.pdf#page=27) <br/>
 
-I am an applied statistician with a broad background in behavioral and biological sciences  <br/>
+I am an applied statistician with a broad background in behavioral and biological sciences [[more](http://chumbleycode.github.io/chumbleycode.github.io/docs/cv.pdf)].  <br/>
 I work to help people clarify and solve vague or complicated interdisciplinary problems. <br/>
 Click on the figures above to learn more about recent work in Bayesian parameter ranking! <br/>
 
