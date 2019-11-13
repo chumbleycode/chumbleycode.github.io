@@ -25,7 +25,7 @@ Click on the figures above to learn more about recent work in Bayesian parameter
 
 Learn more about my work in frequentist and Bayesian neuroimaging! <br/> 
 
-[<img src="docs/JRCsquare.jpg" alt="drawing" width="200">](http://chumbleycode.github.io/chumbleycode.github.io/docs/cv.pdf) [<img src="docs/finest_order1.png" alt="drawing" width="200">](docs/fcr_apa.pdf#page=26) [<img src="docs/finest_order2.png" alt="drawing" width="200">](docs/fcr_apa.pdf#page=27) <br/>
+[<img src="docs/JRCsquare.jpg" alt="drawing" width="200">](http://chumbleycode.github.io/chumbleycode.github.io/docs/cv.pdf) [<img src="docs/finest_order1.png" alt="drawing" width="200">](docs/fcr_apa.pdf#page=26) [<img src="docs/finest_order2.png" alt="drawing" width="200">](docs/fcr_apa.pdf) <br/>
 
 Text-->
 
