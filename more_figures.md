@@ -50,7 +50,7 @@ I try to help people clarify and solve complicated and sometimes vague interdisc
     <tr>
         <td><img src="docs/JRCsquare.jpg" alt="drawing" width="200">  </td>
         <td> I am an applied statistician with a broad background in behavioral and biological sciences <a href="http://chumbleycode.github.io/chumbleycode.github.io/docs/cv.pdf">more...</a>   
-I try to help people clarify and solve complicated and sometimes vague interdisciplinary problems <a href="index.md">less...</a> </td>
+I try to help people clarify and solve complicated and sometimes vague interdisciplinary problems <a href="index.html">less...</a> </td>
     </tr>
 </table>
 
