@@ -19,26 +19,20 @@ I am an applied statistician with a broad background in behavioral and biologica
 I try to help people clarify and solve complicated and sometimes vague interdisciplinary problems. <br/>
 Click on the figures above to learn more about recent work in Bayesian parameter ranking! <br/>
 
-|   	|   	|   	|
-|---	|---	|---	|
-| [<img src="docs/finest_order2.png" alt="drawing" width="200">](docs/fcr_apa.pdf#page=27)  	| recent work in Bayesian parameter ranking!  	| recent work in Bayesian parameter ranking! 	|
-| [<img src="docs/finest_order2.png" alt="drawing" width="200">](docs/fcr_apa.pdf#page=27)  	| recent work in Bayesian parameter ranking!  	| recent work in Bayesian parameter ranking! 	|
-| [<img src="docs/finest_order2.png" alt="drawing" width="200">](docs/fcr_apa.pdf#page=27)  	| recent work in Bayesian parameter ranking!  	| recent work in Bayesian parameter ranking! 	|
-|   	|   	|   	|
-|   	|   	|   	|
-
-
- Recent work in Bayesian parameter ranking!
-
-[<img src="docs/learning.png" alt="drawing" width="200">](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002346) Recent work in Bayesian parameter ranking!
-
-[<img src="docs/finest_order2.png" alt="drawing" width="200">](docs/fcr_apa.pdf#page=27) recent work in Bayesian parameter ranking!
-
-
 
 [<img src="docs/multinomial_spm.jpg" alt="drawing" width="200">](https://www.sciencedirect.com/science/article/pii/S1053811910008281) [<img src="docs/learning.png" alt="drawing" width="200">](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002346) [<img src="docs/fdr_imaging.jpg" alt="drawing" width="200">](https://www.sciencedirect.com/science/article/pii/S1053811908006472) <br/> 
 
 Learn more about my work in frequentist and Bayesian neuroimaging! <br/> 
+
+ 
+|   	|   	|
+|---	|---	|
+| [<img src="docs/finest_order2.png" alt="drawing" width="200">](docs/fcr_apa.pdf#page=27)  	| recent work in Bayesian parameter ranking!  	|
+| [<img src="docs/finest_order2.png" alt="drawing" width="200">](docs/fcr_apa.pdf#page=27)  	| recent work in Bayesian parameter ranking!  	|
+| [<img src="docs/finest_order2.png" alt="drawing" width="200">](docs/fcr_apa.pdf#page=27)  	| recent work in Bayesian parameter ranking!  	|
+|   	|   	|
+|   	|   	| 
+
 [more...](more_figures.md)
 
  
