@@ -38,9 +38,21 @@ Click on the figures above to learn more about recent work in Bayesian parameter
 | [<img src="docs/fdr_imaging.jpg" alt="drawing" width="200">](https://www.sciencedirect.com/science/article/pii/S1053811908006472)  | aosehu aoeh uhaoesuhnt aoensuh a euasoeu aeoh uanhsoeu haoesnuh aoesueouhaoeaoseuh aosehu aoeh uhaoesuhnt aoensuh a euasoeu aeoh uanh|
 
 
-|   	|   	|   	|
-|---	|---	|---	|
-| <img src="docs/JRCsquare.jpg" alt="drawing" width="200">    | I am an applied statistician with a broad background in behavioral and biological sciences  	| I am an applied statistician with a broad background in behavioral and biological sciences  	| 
-| [<img src="docs/multinomial_spm.jpg" alt="drawing" width="200">](https://www.sciencedirect.com/science/article/pii/S1053811910008281) | I am an applied statistician with a broad background in behavioral and biological sciences | I am an applied statistician with a broad background in behavioral and biological sciences |
-|   	|   	|   	|
-|   	|   	|   	|
+<table class="fixed">
+    <col width="40px" />
+    <col width="40px" />
+    <col width="40px" />
+    <tr>
+        <td>[<img src="docs/multinomial_spm.jpg" alt="drawing" width="200">](https://www.sciencedirect.com/science/article/pii/S1053811910008281) </td>
+        <td>snhaoe suh aoesunh asnoe usnao esnu aoehn uhanoe unaoe u aoesnhaoe suh aoesunh asnoe usnao esnu aoehn uhanoe unaoe u aoesnhaoe suh aoesunh asnoe usnao esnu aoehn uhanoe unaoe u aoesnhaoe suh aoesunh asnoe usnao esnu aoehn uhanoe unaoe u aoesnhaoe suh aoesunh asnoe usnao esnu aoehn uhanoe unaoe u aoesnhaoe suh aoesunh asnoe usnao esnu aoehn uhanoe unaoe u aoesnhaoe suh aoesunh asnoe usnao esnu aoehn uhanoe unaoe u aoe u</td>
+        <td>snhaoe suh aoesunh asnoe usnao esnu aoehn uhanoe unaoe u aoesnhaoe suh aoesunh asnoe usnao esnu aoehn uhanoe unaoe u aoesnhaoe suh aoesunh asnoe usnao esnu aoehn uhanoe unaoe u aoesnhaoe suh aoesunh asnoe usnao esnu aoehn uhanoe unaoe u aoesnhaoe suh aoesunh asnoe usnao esnu aoehn uhanoe unaoe u aoesnhaoe suh aoesunh asnoe usnao esnu aoehn uhanoe unaoe u aoesnhaoe suh aoesunh asnoe usnao esnu aoehn uhanoe unaoe u aoe u</td>
+    </tr>
+    <tr>
+        <td> [<img src="docs/fdr_imaging.jpg" alt="drawing" width="200">](https://www.sciencedirect.com/science/article/pii/S1053811908006472)  </td>
+        <td>text</td>
+        <td>text</td>
+    </tr>
+</table>
+
+
+ 
