@@ -30,6 +30,7 @@ Learn more about my work in frequentist and Bayesian neuroimaging! <br/>
 Text-->
 
 <p align="center">
+ 
 # Justin Chumbley
 
 [[cv](http://chumbleycode.github.io/chumbleycode.github.io/docs/cv.pdf)] 
