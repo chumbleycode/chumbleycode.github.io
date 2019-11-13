@@ -24,3 +24,9 @@ Click on the figures above to learn more about recent work in Bayesian parameter
 
 Learn more about my work in frequentist and Bayesian neuroimaging! <br/> 
 [more...](more_figures.md)
+
+|   |   |
+|---|---|
+| [<img src="docs/multinomial_spm.jpg" alt="drawing" width="200">](https://www.sciencedirect.com/science/article/pii/S1053811910008281)  | aauaeusa eousaeoh uaoeuaoeun aoeum aoeuaoesnunsa oeuaoebubaoebubaoeaoveuaoebubaeo  |
+|[<img src="docs/learning.png" alt="drawing" width="200">](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002346)    | aoeuntseohu asohe uasnoe husanohte usnha oesunh aoe huanoseu haoesnuht asoeh usaoeu aoehsu eou  |
+|   |   |
