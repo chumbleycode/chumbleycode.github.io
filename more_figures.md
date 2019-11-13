@@ -36,5 +36,5 @@ Click the figures to learn more about some of my projects! <br/>
 | [<img src="docs/fdr_imaging.jpg" alt="drawing" width="200">](https://www.sciencedirect.com/science/article/pii/S1053811908006472)  	| Multiple comparisons and spatial overfitting!  	|
 | [<img src="docs/multinomial_spm.jpg" alt="drawing" width="200">](https://www.sciencedirect.com/science/article/pii/S1053811910008281) 	| Spatial inference for fMRI!  	|
 | [<img src="docs/learning.png" alt="drawing" width="200">](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002346)   	|  Bayesian models of neuronal learning. 	|
-|   	|   	| 
+|   [<img src="docs/RNA_Polymerase_Binding.jpg" alt="drawing" width="200">](docs/db_paper.pdf)  	|  An R package for Differential binding of DNA transcription motifs!	| 
  
