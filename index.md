@@ -16,7 +16,7 @@ keywords: functional imaging and genomics
 [<img src="docs/JRCsquare.jpg" alt="drawing" width="200">](http://chumbleycode.github.io/chumbleycode.github.io/docs/cv.pdf) [<img src="docs/finest_order1.png" alt="drawing" width="200">](docs/fcr_apa.pdf#page=26) [<img src="docs/finest_order2.png" alt="drawing" width="200">](docs/fcr_apa.pdf#page=27) <br/>
 
 I am an applied statistician with a broad background in behavioral and biological sciences  <br/>
-(economics, psychology, genomics, neuroscience). I help diverse collaborators articulate their complicated interdisciplinary problems and identify creative solutions. <br/>
+(economics, psychology, genomics, neuroscience). I help people clarify messy interdisciplinary problems and identify creative solutions. <br/>
 Click on the figures above to learn more about recent work in Bayesian parameter ranking! <br/>
 
 [<img src="docs/multinomial_spm.jpg" alt="drawing" width="200">](https://www.sciencedirect.com/science/article/pii/S1053811910008281) [<img src="docs/learning.png" alt="drawing" width="200">](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002346) [<img src="docs/fdr_imaging.jpg" alt="drawing" width="200">](https://www.sciencedirect.com/science/article/pii/S1053811908006472) <br/> 
