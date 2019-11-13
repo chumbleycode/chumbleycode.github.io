@@ -43,6 +43,8 @@ I am an applied statistician with a broad background in behavioral and biologica
 I try to help people clarify and solve complicated and sometimes vague interdisciplinary problems. <br/>
 
 
+<br/> 
+<br/> 
 Click the figures to learn more about some of my projects! <br/>
  
 |   	|   	|
