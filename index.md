@@ -25,7 +25,7 @@ Click on the figures above to learn more about recent work in Bayesian parameter
 
 Learn more about my work in frequentist and Bayesian neuroimaging! <br/> 
 
-[<img src="docs/JRCsquare.jpg" alt="drawing" width="200">](http://chumbleycode.github.io/chumbleycode.github.io/docs/cv.pdf) [<img src="docs/finest_order1.png" alt="drawing" width="200">](docs/fcr_apa.pdf#page=26) [<img src="docs/finest_order2.png" alt="drawing" width="200">](docs/fcr_apa.pdf) <br/>
+[<img src="docs/JRCsquare.jpg" alt="drawing" width="200">](http://chumbleycode.github.io/chumbleycode.github.io/docs/cv.pdf) [<img src="docs/finest_order1.png" alt="drawing" width="200">](docs/fcr_apa.pdf) [<img src="docs/finest_order2.png" alt="drawing" width="200">](docs/fcr_apa.pdf) <br/>
 
 Text-->
 
@@ -47,7 +47,7 @@ Click on the figures above to learn more about recent work in Bayesian parameter
  
 |   	|   	|
 |---	|---	|
-| [<img src="docs/finest_order2.png" alt="drawing" width="200">](docs/fcr_apa.pdf#page=27)  	| recent work in Bayesian parameter ranking!  	|
+| [<img src="docs/finest_order2.png" alt="drawing" width="200">](docs/fcr_apa.pdf)  	| recent work in Bayesian parameter ranking!  	|
 | [<img src="docs/fdr_imaging.jpg" alt="drawing" width="200">](https://www.sciencedirect.com/science/article/pii/S1053811908006472)  	| Multiple comparisons and spatial overfitting!  	|
 | [<img src="docs/multinomial_spm.jpg" alt="drawing" width="200">](https://www.sciencedirect.com/science/article/pii/S1053811910008281) 	| Spatial inference for fMRI!  	|
 | [<img src="docs/learning.png" alt="drawing" width="200">](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002346)   	|  Bayesian models of neuronal learning. 	|
