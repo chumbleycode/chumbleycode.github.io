@@ -20,7 +20,9 @@ I try to help people clarify and solve complicated and sometimes vague interdisc
 Click on the figures above to learn more about recent work in Bayesian parameter ranking! <br/>
 
 [<img src="docs/finest_order2.png" alt="drawing" width="200">](docs/fcr_apa.pdf#page=27) Recent work in Bayesian parameter ranking!
+
 [<img src="docs/learning.png" alt="drawing" width="200">](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002346) Recent work in Bayesian parameter ranking!
+
 [<img src="docs/finest_order2.png" alt="drawing" width="200">](docs/fcr_apa.pdf#page=27) recent work in Bayesian parameter ranking!
 
 
