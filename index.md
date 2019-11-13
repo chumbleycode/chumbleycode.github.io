@@ -47,8 +47,8 @@ Click on the figures above to learn more about recent work in Bayesian parameter
 |   	|   	|
 |---	|---	|
 | [<img src="docs/finest_order2.png" alt="drawing" width="200">](docs/fcr_apa.pdf#page=27)  	| recent work in Bayesian parameter ranking!  	|
-| [<img src="docs/finest_order2.png" alt="drawing" width="200">](docs/fcr_apa.pdf#page=27)  	| recent work in Bayesian parameter ranking!  	|
-| [<img src="docs/finest_order2.png" alt="drawing" width="200">](docs/fcr_apa.pdf#page=27)  	| recent work in Bayesian parameter ranking!  	|
+| [<img src="docs/fdr_imaging.jpg" alt="drawing" width="200">](https://www.sciencedirect.com/science/article/pii/S1053811908006472)  	| Multiple comparisons and spatial overfitting!  	|
+| [<img src="docs/multinomial_spm.jpg" alt="drawing" width="200">](https://www.sciencedirect.com/science/article/pii/S1053811910008281) 	| Spatial inference for fMRI!  	|
 |   	|   	|
 |   	|   	| 
 
