@@ -25,34 +25,4 @@ Click on the figures above to learn more about recent work in Bayesian parameter
 Learn more about my work in frequentist and Bayesian neuroimaging! <br/> 
 [more...](more_figures.md)
 
-
- 
-|  <div style="width:290px">property</div>  |   |
-|---|---|
-| [<img src="docs/multinomial_spm.jpg" alt="drawing" width="200">](https://www.sciencedirect.com/science/article/pii/S1053811910008281)  | asoeuht asoehu asoe uaoeshuao eu aoehu ahose uasoeuht asoehu asoe uaoeshuao eu aoehu ahose uasoeuht asoehu asoe uaoeshuao eu aoehu ahose uasoeuht asoehu asoe uaoeshuao eu aoehu ahose uasoeuht asoehu asoe uaoeshuao eu aoehu ahose uasoeuht asoehu asoe uaoeshuao eu aoehu ahose uasoeuht asoehu asoe uaoeshuao eu aoehu ahose uasoeuht asoehu asoe uaoeshuao eu aoehu ahose uasoeuht asoehu asoe uaoeshuao eu aoehu ahose uasoeuht asoehu asoe uaoeshuao eu aoehu ahose uasoeuht asoehu asoe uaoeshuao eu aoehu ahose uasoeuht asoehu asoe uaoeshuao eu aoehu ahose uasoeuht asoehu asoe uaoeshuao eu aoehu ahose uasoeuht asoehu asoe uaoeshuao eu aoehu ahose u|
-|[<img src="docs/learning.png" alt="drawing" width="200">](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002346)    | 
-I am an applied statistician with a broad background in behavioral and biological sciences  <br/>
-(economics, psychology, genomics, neuroscience). My work requires self-direction, an ability <br/>
-to clarify and communicate complicated ideas, and the creativity to solve interdisciplinary problems. <br/>
-Click on the figures above to learn more about recent work in Bayesian parameter ranking! <br/>  |
-| [<img src="docs/fdr_imaging.jpg" alt="drawing" width="200">](https://www.sciencedirect.com/science/article/pii/S1053811908006472)  | aosehu aoeh uhaoesuhnt aoensuh a euasoeu aeoh uanhsoeu haoesnuh aoesueouhaoeaoseuh aosehu aoeh uhaoesuhnt aoensuh a euasoeu aeoh uanh|
-
-
-<table class="fixed">
-    <col width="40px" />
-    <col width="40px" />
-    <col width="40px" />
-    <tr>
-        <td>[<img src="docs/multinomial_spm.jpg" alt="drawing" width="200">](https://www.sciencedirect.com/science/article/pii/S1053811910008281) </td>
-        <td>snhaoe suh aoesunh asnoe usnao esnu aoehn uhanoe unaoe u aoesnhaoe suh aoesunh asnoe usnao esnu aoehn uhanoe unaoe u aoesnhaoe suh aoesunh asnoe usnao esnu aoehn uhanoe unaoe u aoesnhaoe suh aoesunh asnoe usnao esnu aoehn uhanoe unaoe u aoesnhaoe suh aoesunh asnoe usnao esnu aoehn uhanoe unaoe u aoesnhaoe suh aoesunh asnoe usnao esnu aoehn uhanoe unaoe u aoesnhaoe suh aoesunh asnoe usnao esnu aoehn uhanoe unaoe u aoe u</td>
-        <td>snhaoe suh aoesunh asnoe usnao esnu aoehn uhanoe unaoe u aoesnhaoe suh aoesunh asnoe usnao esnu aoehn uhanoe unaoe u aoesnhaoe suh aoesunh asnoe usnao esnu aoehn uhanoe unaoe u aoesnhaoe suh aoesunh asnoe usnao esnu aoehn uhanoe unaoe u aoesnhaoe suh aoesunh asnoe usnao esnu aoehn uhanoe unaoe u aoesnhaoe suh aoesunh asnoe usnao esnu aoehn uhanoe unaoe u aoesnhaoe suh aoesunh asnoe usnao esnu aoehn uhanoe unaoe u aoe u</td>
-    </tr>
-    <tr>
-        <td> [<img src="docs/fdr_imaging.jpg" alt="drawing" width="200">](https://www.sciencedirect.com/science/article/pii/S1053811908006472)  </td>
-        <td>text</td>
-        <td>text</td>
-    </tr>
-</table>
-
-
  
