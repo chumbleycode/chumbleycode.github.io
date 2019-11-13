@@ -29,6 +29,7 @@ Learn more about my work in frequentist and Bayesian neuroimaging! <br/>
 
 Text-->
 
+<p align="center">
 # Justin Chumbley
 
 [[cv](http://chumbleycode.github.io/chumbleycode.github.io/docs/cv.pdf)] 
@@ -53,6 +54,7 @@ Click on the figures above to learn more about recent work in Bayesian parameter
 | [<img src="docs/learning.png" alt="drawing" width="200">](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002346)   	|  Bayesian models of neuronal learning. 	|
 |   	|   	| 
 
+</p>
 [more...](more_figures.md)
 
  
