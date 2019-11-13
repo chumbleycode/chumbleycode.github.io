@@ -5,7 +5,7 @@ description: Statistician
 keywords: functional imaging and genomics
 ---
 
-# Justin Chumbley
+# Justin Chumbley Ph.D
 
 [[cv](http://chumbleycode.github.io/chumbleycode.github.io/docs/cv.pdf)] 
 [[linkedin](https://www.linkedin.com/in/chumbleycode)] 
