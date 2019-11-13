@@ -49,7 +49,7 @@ Click the figures to learn more about some of my projects! <br/>
  
 |   	|   	|
 |---	|---	|
-| [<img src="docs/finest_order2.png" alt="drawing" width="200">](docs/fcr_apa.pdf)  	| Most recent work in Bayesian parameter ranking!  	|
+| [<img src="docs/finest_order2.png" alt="drawing" width="200">](docs/fcr_apa.pdf)  	| Current work in Bayesian parameter ranking!  	|
 | [<img src="docs/fdr_imaging.jpg" alt="drawing" width="200">](https://www.sciencedirect.com/science/article/pii/S1053811908006472)  	| Multiple comparisons and spatial overfitting!  	|
 | [<img src="docs/multinomial_spm.jpg" alt="drawing" width="200">](https://www.sciencedirect.com/science/article/pii/S1053811910008281) 	| Spatial inference for fMRI!  	|
 | [<img src="docs/learning.png" alt="drawing" width="200">](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002346)   	|  Bayesian models of neuronal learning. 	|
