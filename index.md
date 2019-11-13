@@ -40,6 +40,6 @@ Text-->
 
 [<img src="docs/JRCsquare.jpg" alt="drawing" width="200">](http://chumbleycode.github.io/chumbleycode.github.io/docs/cv.pdf) 
 
-I am an applied statistician with a broad background in behavioral and biological sciences [[more](http://chumbleycode.github.io/chumbleycode.github.io/docs/cv.pdf)].  <br/>
-I try to help people clarify and solve complicated and sometimes vague interdisciplinary problems  [[more](more_figures.md)].. <br/>
+I am an applied statistician with a broad background in behavioral and biological sciences [[more...](http://chumbleycode.github.io/chumbleycode.github.io/docs/cv.pdf)]  <br/>
+I try to help people clarify and solve complicated and sometimes vague interdisciplinary problems  [[more...](more_figures.md)] <br/>
  
