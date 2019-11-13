@@ -17,7 +17,7 @@ keywords: functional imaging and genomics
     <col width="200px" /> 
     <tr>
         <td><img src="docs/JRCsquare.jpg" alt="drawing" width="200">  </td>
-        <td> I am an applied statistician with a broad background in behavioral and biological sciences (check out my CV <a href="http://chumbleycode.github.io/chumbleycode.github.io/docs/cv.pdf"> here</a>). I help my collaborators clarify and solve tricky,  vaguely formulated interdisciplinary problems (read less about my current projects <a href="index.html"> here</a>).
+        <td> I am an applied statistician with a broad background in behavioral and biological sciences (check out my CV <a href="http://chumbleycode.github.io/chumbleycode.github.io/docs/cv.pdf"> here</a>). I help my collaborators clarify and solve tricky,  vaguely formulated interdisciplinary problems (read more about my current projects <a href="index.html"> back</a>).
             </td>
     </tr>
 </table>
