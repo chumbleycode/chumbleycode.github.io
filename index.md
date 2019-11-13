@@ -43,6 +43,7 @@ Click on the figures above to learn more about recent work in Bayesian parameter
 
 |   	|   	|   	|
 |---	|---	|---	|
-| [<img src="docs/multinomial_spm.jpg" alt="drawing" width="200">](https://www.sciencedirect.com/science/article/pii/S1053811910008281)    	| I am an applied statistician with a broad background in behavioral and biological sciences  	| I am an applied statistician with a broad background in behavioral and biological sciences  	| [<img src="docs/multinomial_spm.jpg" alt="drawing" width="200">](https://www.sciencedirect.com/science/article/pii/S1053811910008281)    	| I am an applied statistician with a broad background in behavioral and biological sciences  	| I am an applied statistician with a broad background in behavioral and biological sciences  	|
+| [<img src="docs/multinomial_spm.jpg" alt="drawing" width="200">](https://www.sciencedirect.com/science/article/pii/S1053811910008281)    | I am an applied statistician with a broad background in behavioral and biological sciences  	| I am an applied statistician with a broad background in behavioral and biological sciences  	| 
+| [<img src="docs/multinomial_spm.jpg" alt="drawing" width="200">](https://www.sciencedirect.com/science/article/pii/S1053811910008281) | I am an applied statistician with a broad background in behavioral and biological sciences | I am an applied statistician with a broad background in behavioral and biological sciences |
 |   	|   	|   	|
 |   	|   	|   	|
