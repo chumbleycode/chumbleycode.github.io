@@ -45,7 +45,7 @@ Click the figures to learn more about some of my projects! <br/>
 | [<img src="images/chen.png" alt="drawing" width="200">](docs/papers_reports/chen.pdf)| Pilot project on the effects of parental treatment on gene expression II.  |
 |   [<img src="images/RNA_Polymerase_Binding.jpg" alt="drawing" width="200">](docs/papers_reports/db_paper.pdf) | An R package for Differential binding of DNA transcription motifs!	| 
  
-Older work
+and some older work...
 
 |   	|   	|
 |---	|---	|
