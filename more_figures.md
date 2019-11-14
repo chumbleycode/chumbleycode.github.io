@@ -56,3 +56,6 @@ and selected older work...
 | [<img src="images/bdnf.png" alt="drawing" width="200">](docs/papers_reports/bdnf.pdf) |  Bone derived neurotrophic factor affects reward processing! |
 | [<img src="images/cortisol.jpg" alt="drawing" width="200">](docs/papers_reports/cortisol.pdf) |  Sex and behavioral vigor! |
 | [<img src="images/topo.jpg" alt="drawing" width="200">](docs/papers_reports/topo.pdf) |  Topological methods in neuroimaging! |
+| [<img src="images/motivation.jpg" alt="drawing" width="200">](docs/papers_reports/motivation.pdf) |  Generalized motivation on financial rewards! |
+| [<img src="images/attractor_models.jpg" alt="drawing" width="200">](docs/papers_reports/attractor_models.pdf) |  Attractor models of working memory! |
+
