@@ -54,5 +54,5 @@ and selected older work...
 | [<img src="images/multinomial_spm.jpg" alt="drawing" width="200">](docs/papers_reports/spatial_multinomial.pdf) 	| Spatial inference for fMRI!  	|
 | [<img src="images/learning.png" alt="drawing" width="200">](docs/papers_reports/dirichlet_learning.pdf) |  Bayesian models of neuronal learning! |
 | [<img src="images/bdnf.png" alt="drawing" width="200">](docs/papers_reports/bdnf.pdf) |  Bayesian models of neuronal learning! |
-| [<img src="images/cortisol.png" alt="drawing" width="200">](docs/papers_reports/cortisol.pdf) |  Bayesian models of neuronal learning! |
-| [<img src="images/topo.png" alt="drawing" width="200">](docs/papers_reports/topo.pdf) |  Bayesian models of neuronal learning! |
+| [<img src="images/cortisol.jpg" alt="drawing" width="200">](docs/papers_reports/cortisol.pdf) |  Bayesian models of neuronal learning! |
+| [<img src="images/topo.jpg" alt="drawing" width="200">](docs/papers_reports/topo.pdf) |  Bayesian models of neuronal learning! |
