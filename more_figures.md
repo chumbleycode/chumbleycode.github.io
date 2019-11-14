@@ -46,7 +46,7 @@ Click the figures to learn more about some of my projects! <br/>
 | [<img src="images/chen.png" alt="drawing" width="200">](docs/papers_reports/chen.pdf)| Pilot project on the effects of parental treatment on gene expression II!  |
 
  
-and some older work...
+and selected older work...
 
 |   	|   	|
 |---	|---	|
