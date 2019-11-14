@@ -33,9 +33,10 @@ Click the figures to learn more about some of my projects! <br/>
 |   	|   	|
 |---	|---	|
 | [<img src="images/finest_order2.png" alt="drawing" width="200">](docs/papers_reports/fcr_apa.pdf)  	| Current work in Bayesian parameter ranking!  	|
+| [<img src="images/range_apa.png" alt="drawing" width="200">](docs/papers_reports/range_apa.pdf)| Bayesian life course models in developmental epidemiology! |
 | [<img src="images/fdr_imaging.jpg" alt="drawing" width="200">](https://www.sciencedirect.com/science/article/pii/S1053811908006472)  	| Multiple comparisons and spatial overfitting!  	|
 | [<img src="images/multinomial_spm.jpg" alt="drawing" width="200">](https://www.sciencedirect.com/science/article/pii/S1053811910008281) 	| Spatial inference for fMRI!  	|
-| [<img src="images/learning.png" alt="drawing" width="200">](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002346) |  Bayesian models of neuronal learning. |
+| [<img src="images/learning.png" alt="drawing" width="200">](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002346) |  Bayesian models of neuronal learning! |
 |  [<img src="images/denis2.jpg" alt="drawing" width="200">](docs/papers_reports/bullying_design.pdf) | A sampling strategy for studying bully victims. |
 | [<img src="images/dag.png" alt="drawing" width="200">](docs/papers_reports/Causality_Primer.pdf)| A primer on causal mediation for biologists! |
 | [<img src="images/unnamed-chunk-1-1.png" alt="drawing" width="200">](docs/papers_reports/paper_stable.pdf)| Effects of parental treatment on gene expression. |
