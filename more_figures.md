@@ -39,7 +39,7 @@ Click the figures to learn more about some of my projects! <br/>
 | [<img src="images/fdr_imaging.jpg" alt="drawing" width="200">](docs/papers_reports/topological.pdf)  	| Multiple comparisons and spatial overfitting!  	|
 | [<img src="images/multinomial_spm.jpg" alt="drawing" width="200">](docs/papers_reports/spatial_multinomial.pdf) 	| Spatial inference for fMRI!  	|
 | [<img src="images/learning.png" alt="drawing" width="200">](docs/papers_reports/dirichlet_learning.pdf) |  Bayesian models of neuronal learning! |
-|  [<img src="images/denis2.jpg" alt="drawing" width="200">](docs/papers_reports/bullying_design.pdf) | Sampling strategies for a longitudinal study of victimization. |
+|  [<img src="images/denis2.jpg" alt="drawing" width="200">](docs/papers_reports/bullying_design.pdf) | Sampling strategies for studying peer victimization. |
 | [<img src="images/dag.png" alt="drawing" width="200">](docs/papers_reports/Causality_Primer.pdf)| A primer on causal mediation for biologists! |
 | [<img src="images/unnamed-chunk-1-1.png" alt="drawing" width="200">](docs/papers_reports/paper_stable.pdf)| Pilot project on the effects of parental treatment on gene expression I. |
 | [<img src="images/chen.png" alt="drawing" width="200">](docs/papers_reports/chen.pdf)| Pilot project on the effects of parental treatment on gene expression II.  |
