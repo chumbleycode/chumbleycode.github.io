@@ -37,7 +37,7 @@ Click the figures to learn more about some of my projects! <br/>
 | [<img src="images/multinomial_spm.jpg" alt="drawing" width="200">](https://www.sciencedirect.com/science/article/pii/S1053811910008281) 	| Spatial inference for fMRI!  	|
 | [<img src="images/learning.png" alt="drawing" width="200">](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002346) |  Bayesian models of neuronal learning. |
 |  [<img src="images/denis2.jpg" alt="drawing" width="200">](docs/papers_reports/bullying_design.pdf) | A sampling strategy for studying bully victims. |
-| [<img src="images/denis2.jpg" alt="drawing" width="200">](docs/Causality_Primer.pdf)| A causal primer for biologists! |
+| [<img src="images/dag.png" alt="drawing" width="200">](docs/Causality_Primer.pdf)| A primer on causal mediation for biologists! |
 | [<img src="images/unnamed-chunk-1-1.png" alt="drawing" width="200">](docs/papers_reports/paper_stable.pdf)| Effects of parental treatment on gene expression. |
 |   [<img src="images/RNA_Polymerase_Binding.jpg" alt="drawing" width="200">](docs/papers_reports/db_paper.pdf) | An R package for Differential binding of DNA transcription motifs!	| 
  
