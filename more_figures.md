@@ -8,9 +8,9 @@ keywords: functional imaging and genomics
 # Justin Chumbley Ph.D
 
 [[bio](index.md)]
+[[projects](more_figures.md)]
 [[cv](http://chumbleycode.github.io/chumbleycode.github.io/docs/cv.pdf)]
 [[publications](https://scholar.google.com/citations?hl=en&user=YbbXlwIAAAAJ)]
-[[projects](more_figures.md)]
 [[github](https://github.com/chumbleycode/)] 
 [[linkedin](https://www.linkedin.com/in/chumbleycode)] 
 
