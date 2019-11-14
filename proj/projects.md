@@ -17,7 +17,7 @@ keywords: functional imaging and genomics
 
 ## Projects
 
-Projects currently [here](../more_figures.md)
+Projects currently [here.](../more_figures.md)
 
 Coming soon...
 
