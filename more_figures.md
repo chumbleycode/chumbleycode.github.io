@@ -62,4 +62,10 @@ Click the figures to learn more about some of my recent and working projects! <b
 | [<img src="images/neuronal_surprise.png" alt="drawing" width="200">](docs/papers_reports/neuronal_surprise.pdf) |  Neuronal prediction errors! |
 | [<img src="images/fatal.png" alt="drawing" width="200">](docs/papers_reports/fatal.pdf) |  Fatal attraction! |
 
+work supporting brilliant collaborators...
+
+|   	|   	|
+|---	|---	|
+| [<img src="images/variational.png" alt="drawing" width="200">](docs/papers_reports/variational.pdf) | Variational Bayesian mixed-effects! |
+| [<img src="images/kay.png" alt="drawing" width="200">](docs/papers_reports/kay.pdf) | Variational Bayesian mixed-effects! |
 
