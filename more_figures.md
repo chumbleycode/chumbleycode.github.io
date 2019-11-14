@@ -49,6 +49,7 @@ Click the figures to learn more about some of my recent and working projects! <b
 
 |   	|   	|
 |---	|---	|
+| [<img src="images/loss_aversion.png" alt="drawing" width="200">](docs/papers_reports/loss_aversion.pdf) |  Behavioral risk and loss aversion! |
 | [<img src="images/fdr_imaging.jpg" alt="drawing" width="200">](docs/papers_reports/topological.pdf)  	| Multiple comparisons and spatial overfitting!  	|
 | [<img src="images/multinomial_spm.jpg" alt="drawing" width="200">](docs/papers_reports/spatial_multinomial.pdf) 	| Spatial inference for fMRI!  	|
 | [<img src="images/learning.png" alt="drawing" width="200">](docs/papers_reports/dirichlet_learning.pdf) |  Bayesian models of neuronal learning! |
