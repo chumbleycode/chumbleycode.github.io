@@ -28,7 +28,7 @@ keywords: functional imaging and genomics
 
 <table class="fixed">
     <col width="200px" />
-    <col width="400px" /> 
+    <col width="350px" /> 
     <tr>
         <td><img src="images/JRCsquare.jpg" alt="drawing" width="200">  </td>
         <td> I am an applied statistician with a broad background in behavioral and biological sciences: <br/><br/>
