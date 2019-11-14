@@ -34,7 +34,7 @@ keywords: functional imaging and genomics
         <td> I am an applied statistician with a broad background in behavioral and biological sciences: <br/><br/>
             &#8594; Check out my CV <a href="http://chumbleycode.github.io/chumbleycode.github.io/docs/cv.pdf"> here</a>. <br/><br/>
             I help my collaborators clarify, simplify and solve challenging interdisciplinary problems: <br/><br/>
-            &#8594; Read about my current projects <a href="more_figures.html"> here.</a>
+            &#8594; Learn more about my current projects <a href="more_figures.html"> here.</a>
             </td>
     </tr>
 </table>
