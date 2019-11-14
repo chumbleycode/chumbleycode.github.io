@@ -45,6 +45,17 @@ Click the figures to learn more about some of my recent and working projects! <b
 | [<img src="images/unnamed-chunk-1-1.png" alt="drawing" width="200">](docs/papers_reports/paper_stable.pdf)| Pilot project on the effects of parental treatment on gene expression I! |
 | [<img src="images/chen.png" alt="drawing" width="200">](docs/papers_reports/chen.pdf)| Pilot project on the effects of parental treatment on gene expression II!  |
 
- 
+ and selected older work...
+
+|   	|   	|
+|---	|---	|
+| [<img src="images/fdr_imaging.jpg" alt="drawing" width="200">](docs/papers_reports/topological.pdf)  	| Multiple comparisons and spatial overfitting!  	|
+| [<img src="images/multinomial_spm.jpg" alt="drawing" width="200">](docs/papers_reports/spatial_multinomial.pdf) 	| Spatial inference for fMRI!  	|
+| [<img src="images/learning.png" alt="drawing" width="200">](docs/papers_reports/dirichlet_learning.pdf) |  Bayesian models of neuronal learning! |
+| [<img src="images/bdnf.png" alt="drawing" width="200">](docs/papers_reports/bdnf.pdf) |  Bone derived neurotrophic factor affects reward processing! |
+| [<img src="images/cortisol.jpg" alt="drawing" width="200">](docs/papers_reports/cortisol.pdf) |  Sex and behavioral vigor! |
+| [<img src="images/topo.jpg" alt="drawing" width="200">](docs/papers_reports/topo.pdf) |  Topological methods in neuroimaging! |
+| [<img src="images/motivation.png" alt="drawing" width="200">](docs/papers_reports/motivation.pdf) |  Generalized motivation on financial rewards! |
+| [<img src="images/attractor_models.png" alt="drawing" width="200">](docs/papers_reports/attractor_models.pdf) |  Attractor models of working memory! |
 
 
