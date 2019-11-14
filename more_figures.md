@@ -34,6 +34,7 @@ Click the figures to learn more about some of my projects! <br/>
 |---	|---	|
 | [<img src="images/finest_order2.png" alt="drawing" width="200">](docs/papers_reports/fcr_apa.pdf)  	| Current work in Bayesian parameter ranking!  	|
 | [<img src="images/range_apa.png" alt="drawing" width="200">](docs/papers_reports/range_apa.pdf)| Bayesian life course models in developmental epidemiology! |
+| [<img src="images/pnas.png" alt="drawing" width="200">](docs/papers_reports/pnas.pdf)| Using behavioral games to study personality! |
 | [<img src="images/fdr_imaging.jpg" alt="drawing" width="200">](https://www.sciencedirect.com/science/article/pii/S1053811908006472)  	| Multiple comparisons and spatial overfitting!  	|
 | [<img src="images/multinomial_spm.jpg" alt="drawing" width="200">](https://www.sciencedirect.com/science/article/pii/S1053811910008281) 	| Spatial inference for fMRI!  	|
 | [<img src="images/learning.png" alt="drawing" width="200">](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002346) |  Bayesian models of neuronal learning! |
