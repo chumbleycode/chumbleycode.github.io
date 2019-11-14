@@ -17,9 +17,9 @@ keywords: functional imaging and genomics
 # Credible ranks
 
 Here we examine the credible ranking of parameters.
-Briefly ![](docs/finest_order1.png)
+Briefly ![](images/finest_order1.png)
 
 We then ...
-Briefly ![](docs/finest_order2.png)
+Briefly ![](images/finest_order2.png)
 
-The pdf is [available](http://chumbleycode.github.io/chumbleycode.github.io/docs/fcr_apa.pdf).
+The pdf is [available](http://chumbleycode.github.io/chumbleycode.github.io/docs/papers_reports/fcr_apa.pdf).
