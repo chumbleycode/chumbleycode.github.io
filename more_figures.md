@@ -57,5 +57,8 @@ Click the figures to learn more about some of my recent and working projects! <b
 | [<img src="images/topo.jpg" alt="drawing" width="200">](docs/papers_reports/topo.pdf) |  Topological methods in neuroimaging! |
 | [<img src="images/motivation.png" alt="drawing" width="200">](docs/papers_reports/motivation.pdf) |  Generalized motivation on financial rewards! |
 | [<img src="images/attractor_models.png" alt="drawing" width="200">](docs/papers_reports/attractor_models.pdf) |  Attractor models of working memory! |
+| [<img src="images/mcmc_dcm.png" alt="drawing" width="200">](docs/papers_reports/mcmc_dcm.pdf) |  Metropolis hastings MCMC for dynamic causal models! |
+| [<img src="images/neuronal_surprise.png" alt="drawing" width="200">](docs/papers_reports/neuronal_surprise.pdf) |  Neuronal prediction errors! |
+| [<img src="images/fatal.png" alt="drawing" width="200">](docs/papers_reports/fatal.pdf) |  Fatal attraction! |
 
 
