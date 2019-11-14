@@ -67,5 +67,5 @@ work supporting brilliant collaborators...
 |   	|   	|
 |---	|---	|
 | [<img src="images/variational.png" alt="drawing" width="200">](docs/papers_reports/variational.pdf) | Variational Bayesian mixed-effects! |
-| [<img src="images/kay.png" alt="drawing" width="200">](docs/papers_reports/kay.pdf) | Variational Bayesian mixed-effects! |
+| [<img src="images/kay.png" alt="drawing" width="200">](docs/papers_reports/kay.pdf) | Bayesian Mixed-Effects Inference! |
 
