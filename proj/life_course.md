@@ -16,4 +16,4 @@ keywords: functional imaging and genomics
 
 ## Work on 
 
-Bayesian life course models [PDF](http://chumbleycode.github.io/chumbleycode.github.io/docs/range_apa.pdf)
+Bayesian life course models [PDF](http://chumbleycode.github.io/chumbleycode.github.io/docs/papers_reports/range_apa.pdf)
