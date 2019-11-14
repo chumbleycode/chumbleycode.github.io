@@ -39,5 +39,6 @@ Click the figures to learn more about some of my projects! <br/>
 |  [<img src="images/denis2.jpg" alt="drawing" width="200">](docs/papers_reports/bullying_design.pdf) | A sampling strategy for studying bully victims. |
 | [<img src="images/dag.png" alt="drawing" width="200">](docs/papers_reports/Causality_Primer.pdf)| A primer on causal mediation for biologists! |
 | [<img src="images/unnamed-chunk-1-1.png" alt="drawing" width="200">](docs/papers_reports/paper_stable.pdf)| Effects of parental treatment on gene expression. |
+| [<img src="images/chen.png" alt="drawing" width="200">](docs/papers_reports/chen.pdf)| Does parental treatment on gene expression: a pilot project? |
 |   [<img src="images/RNA_Polymerase_Binding.jpg" alt="drawing" width="200">](docs/papers_reports/db_paper.pdf) | An R package for Differential binding of DNA transcription motifs!	| 
  
