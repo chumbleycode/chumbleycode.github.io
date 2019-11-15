@@ -70,16 +70,11 @@ work supporting brilliant collaborators...
 | [<img src="images/lateralization.png" alt="drawing" width="200">](docs/papers_reports/lateralization.pdf) | Functional Lateralization of the Anterior Insula! |
 | [<img src="images/kay.png" alt="drawing" width="200">](docs/papers_reports/kay.pdf) | Bayesian Mixed-Effects Inference! |
 
-Representative grants ...
+Representative grants and talks ...
 
 |   	|   	|
 |---	|---	|
 | [<img src="images/grantASD.png" alt="drawing" width="200">](docs/papers_reports/grantASD.pdf) | Brain mechanisms of multisensory prediction! |
 | [<img src="images/grantNashPavlov.png" alt="drawing" width="200">](docs/papers_reports/grantNashPavlov.pdf) | Nash versus Pavlov in zero sum games! |
-
-Representative talks...
-
-|   	|   	|
-|---	|---	|
 | [<img src="images/talkIRT.png" alt="drawing" width="200">](docs/talks/talkIRT.pdf) | Psychometrics and causality! |
 | [<img src="images/talkRNA.png" alt="drawing" width="200">](docs/talks/talkRNA.pdf) | Social genomics! |
