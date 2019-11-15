@@ -74,4 +74,4 @@ Some grants ...
 
 |   	|   	|
 |---	|---	|
-| [<img src="images/grantASD.png" alt="drawing" width="200">](docs/papers_reports/grantASD.pdf) | Bayesian Mixed-Effects Inference! |
+| [<img src="images/grantASD.png" alt="drawing" width="200">](docs/papers_reports/grantASD.pdf) | Brain mechanisms of multisensory prediction! |
