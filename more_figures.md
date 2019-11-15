@@ -70,3 +70,8 @@ work supporting brilliant collaborators...
 | [<img src="images/lateralization.png" alt="drawing" width="200">](docs/papers_reports/lateralization.pdf) | Functional Lateralization of the Anterior Insula! |
 | [<img src="images/kay.png" alt="drawing" width="200">](docs/papers_reports/kay.pdf) | Bayesian Mixed-Effects Inference! |
 
+Some grants ...
+
+|   	|   	|
+|---	|---	|
+| [<img src="images/grantASD.png" alt="drawing" width="200">](docs/papers_reports/grantASD.pdf) | Bayesian Mixed-Effects Inference! |
