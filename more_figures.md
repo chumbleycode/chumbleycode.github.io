@@ -75,3 +75,4 @@ Some grants ...
 |   	|   	|
 |---	|---	|
 | [<img src="images/grantASD.png" alt="drawing" width="200">](docs/papers_reports/grantASD.pdf) | Brain mechanisms of multisensory prediction! |
+| [<img src="images/grantNashPavlov.png" alt="drawing" width="200">](docs/papers_reports/grantNashPavlov.pdf) | Nash versus Pavlov in zero sum games! |
