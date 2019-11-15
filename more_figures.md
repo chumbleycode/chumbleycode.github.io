@@ -41,7 +41,7 @@ Click the figures to learn more about some of my recent and working projects! <b
 |   [<img src="images/db_paper.jpg" alt="drawing" width="200">](docs/papers_reports/db_paper.pdf) | An R package for Differential binding of DNA transcription motifs!	| 
 | [<img src="images/social_attachment.png" alt="drawing" width="200">](docs/papers_reports/social_attachment.pdf)| Computational psychiatry of social attachment! |
 |  [<img src="images/denis2.jpg" alt="drawing" width="200">](docs/papers_reports/bullying_design.pdf) | Sampling strategies for studying peer victimization! |
-| [<img src="images/dag.png" alt="drawing" width="200">](docs/papers_reports/Causality_Primer.pdf)| A primer on causal mediation for biologists! |
+| [<img src="images/dag.png" alt="drawing" width="200">](docs/papers_reports/talk_bio_causation.pdf)| A primer on causal mediation for biologists! |
 | [<img src="images/chen1.png" alt="drawing" width="200">](docs/papers_reports/chen1.pdf)| Pilot project on the effects of parental treatment on gene expression I! |
 | [<img src="images/chen.png" alt="drawing" width="200">](docs/papers_reports/chen.pdf)| Pilot project on the effects of parental treatment on gene expression II!  |
 
