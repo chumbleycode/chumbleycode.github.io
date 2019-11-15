@@ -82,4 +82,4 @@ Representative talks...
 |   	|   	|
 |---	|---	|
 | [<img src="images/talkIRT.png" alt="drawing" width="200">](docs/talks/talkIRT.pdf) | Psychometrics and causality! |
-| [<img src="images/talk_bio_causation.png" alt="drawing" width="200">](docs/talks/talk_bio_causation.pdf) | Genomic causation! |
+| [<img src="images/talkRNA.png" alt="drawing" width="200">](docs/talks/talkRNA.pdf) | Genomic causation! |
