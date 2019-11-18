@@ -18,3 +18,8 @@ integrate code into a shared repository several times a day. Each check-in is th
 
 transition from OO to FP
 functional programming : map filter
+
+container - running instance of image (system snapshot: OS, software). Image built via text dockerfile. Run image to open container.
+
+
+
