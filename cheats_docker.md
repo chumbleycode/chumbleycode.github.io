@@ -541,3 +541,54 @@ docker-compose up -d
 ```
 docker-compose down
 ```
+
+#### Getting started JC
+
+
+here, project_folder contains Dockerfile 
+ 
+```
+FROM rocker/verse:3.3.1
+EXPOSE 80
+CMD ["rstudio"]
+```
+
+Then build
+
+```
+docker image build ~/Desktop/project_folder -t tag_of_image
+```
+
+Run interactively
+
+rstudio uses port 8787 
+
+```
+sudo docker run -it -p 28787:8787 tag_of_image bin/bash
+```
+ 
+### Start with?
+
+git clone https://github.com/SymbolixAU/r_docker_hello.git
+
+ 
+### Start with
+
+```
+docker run --rm -p 8787:8787 -e USER=guest -e PASSWORD=guest -v /Users/chumbley/Shared:/home/guest/r-docker tmlts/r-tidyverse-h2o
+```
+
+
+# another
+
+Built when in your working dir. -t for tag or name :+)
+
+```
+docker build -t chumbleycode/my_pkg .
+```
+
+
+```
+docker run --rm -e USER=jc -e PASSWORD=123 -p 1111:8787 mydocker
+```
+
