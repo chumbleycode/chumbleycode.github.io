@@ -592,3 +592,22 @@ docker build -t chumbleycode/my_pkg .
 docker run --rm -e USER=jc -e PASSWORD=123 -p 1111:8787 mydocker
 ```
 
+## Pull from docker hub
+
+```
+ docker run --rm -e USER=wtf -e PASSWORD=fu -p 1010:8787 chumbleycode/my_pkg
+ ```
+ 
+ Then access rstudio in the browser at localhost:1010
+ 
+ ## If want to bind mount volume, use -v
+ 
+ docker run --rm -e USER=wtf -e PASSWORD=fu -p 1010:8787 -v /Users/chumbley/Desktop/mywor/:/home/rstudio chumbleycode/my_pkg
+ 
+ 
+ # Push to docker hub
+ 
+ ```
+ docker login --username=yourhubusername
+ docker push docker_username/repo:tag
+``` 
