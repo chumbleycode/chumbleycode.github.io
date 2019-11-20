@@ -29,9 +29,7 @@ keywords: functional imaging and genomics
 
 # 0. Install docker (if you don't yet have it)
 
-Open an account at https://hub.docker.com/ .
-
-Then follow installation instructions.
+Open an account at [docker hub](https://hub.docker.com/). Then follow installation instructions.
 
 # 1. Get docker image 
 
