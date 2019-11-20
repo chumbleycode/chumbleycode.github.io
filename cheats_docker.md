@@ -18,6 +18,16 @@ $ docker version
 $ docker info
 ```
 
+### For ease of shell navigation, optionally:
+
+Set up bash completion for docker by running the below commands in mac shell (or similar for linux):
+
+```
+brew install docker-completion
+brew install docker-compose-completion
+brew install docker-machine-completion
+```
+
 # WORKING WITH CONTAINERS
 
 ### Create an run a container in foreground
