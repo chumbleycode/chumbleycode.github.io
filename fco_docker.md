@@ -1,3 +1,11 @@
+---
+layout: frontpage
+title: Justin Chumbley
+description: Statistician
+keywords: functional imaging and genomics
+---
+
+
 # Open container 
 
 on say port http://localhost:2222.
