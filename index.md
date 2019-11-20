@@ -27,6 +27,6 @@ keywords: functional imaging and genomics
     </tr>
 </table>
 
- <span style="color:red"> For example, check out</span> the [docker image](fco_docker.md) or [github repo](https://github.com/chumbleycode/fco) to play with the analyses in [Bayesian parameter ranking](docs/papers_reports/fcr_apa.pdf).
+ <span style="color:red"> For example, check out</span> the [docker image](https://hub.docker.com/repository/docker/chumbleycode/fco) or [github repo](https://github.com/chumbleycode/fco) to play with the analyses in [Bayesian parameter ranking](docs/papers_reports/fcr_apa.pdf). If you are new to docker see [here](fco_docker.md).
  
 [<img src="images/finest_order2.png" alt="drawing" width="500">](docs/papers_reports/fcr_apa.pdf).
