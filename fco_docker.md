@@ -34,7 +34,7 @@ Open an account at https://hub.docker.com/. Then follow installation instruction
 # 1. Get docker image 
 
 ```
-docker push chumbleycode/fco:latest
+docker pull chumbleycode/fco:latest
 ```
 
 For more information see: https://hub.docker.com/repository/docker/chumbleycode/fco
