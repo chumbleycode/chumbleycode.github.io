@@ -19,12 +19,20 @@ You can change USER and PASSWORD.
 docker run --rm -v $(pwd):/home/rstudio/fco/ -p 2222:8787 -e USER=guest -e PASSWORD=secret chumbleycode/fco:latest
 ```
 
-# 3. On your browser, go to http://localhost:2222.
+# 3a. To use rstudio in your browser
+
+Go to http://localhost:2222.
 
 USER=guest
 PASSWORD=secret
 
-# 4. Run analysis
+# 3b. Alternatively, to use R in the terminal
+
+```
+docker run --rm -it -v $(pwd):/home/rstudio/fco/ chumbleycode/fco:latest R
+````
+
+# 4. Play with the example analysis script
 
 A simple example script is in fco/R/example_analysis.R
 
