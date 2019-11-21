@@ -27,5 +27,5 @@ keywords: functional imaging and genomics
     </tr>
 </table>
 
-* Open an account at my [docker hub](https://hub.docker.com/) and follow installation instructions.
-* Visit the docker hub site [here](https://hub.docker.com/repository/docker/chumbleycode/fco), which has instructions for pulling and running the image. 
+* Open an account at [docker hub](https://hub.docker.com/) and follow installation instructions.
+* Visit my docker hub page [here](https://hub.docker.com/repository/docker/chumbleycode/fco), which has instructions for pulling and running the image. 
