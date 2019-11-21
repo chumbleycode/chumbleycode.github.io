@@ -78,3 +78,20 @@ Representative grants and talks ...
 | [<img src="images/grantNashPavlov.png" alt="drawing" width="200">](docs/papers_reports/grantNashPavlov.pdf) | Nash versus Pavlov in zero sum games! |
 | [<img src="images/talkIRT.png" alt="drawing" width="200">](docs/talks/talkIRT.pdf) | Psychometrics and causality! |
 | [<img src="images/talkRNA.png" alt="drawing" width="200">](docs/talks/talkRNA.pdf) | Social genomics! |
+
+
+
+
+
+
+
+
+
+
+
+
+|   	|   	|   	|
+|---	|---	|---	|
+	| Current work in Bayesian parameter ranking!  	|Bayesian life course models in developmental epidemiology! |Using behavioral games to study personality! |
+| [<img src="images/finest_order2.png" alt="drawing" width="200">](docs/papers_reports/fcr_apa.pdf)  | [<img src="images/range_apa.png" alt="drawing" width="200">](docs/papers_reports/range_apa.pdf)|  [<img src="images/pnas.png" alt="drawing" width="200">](docs/papers_reports/pnas.pdf) | 
+
