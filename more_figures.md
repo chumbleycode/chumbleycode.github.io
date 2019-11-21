@@ -89,6 +89,8 @@ Representative grants and talks ...
 
 |   	|   	|   	|
 |---	|---	|---	|
-| --- Current work in Bayesian parameter ranking! --- | *** Bayesian life course models in developmental epidemiology! *** |  *** Using behavioral games to study personality! *** |
+| --- Current work in Bayesian parameter ranking! --- |  --- Bayesian life course models in developmental epidemiology!  --- |   --- Using behavioral games to study personality!  --- |
 | [<img src="images/finest_order2.png" alt="drawing" width="400">](docs/papers_reports/fcr_apa.pdf)  | [<img src="images/range_apa.png" alt="drawing" width="400">](docs/papers_reports/range_apa.pdf)|  [<img src="images/pnas.png" alt="drawing" width="400">](docs/papers_reports/pnas.pdf) | 
+| --- An R package for Differential binding of DNA transcription motifs! --- |  Computational psychiatry of social attachment! ---| --- Sampling strategies for studying peer victimization! --- |
+|  [<img src="images/db_paper.jpg" alt="drawing" width="200">](docs/papers_reports/db_paper.pdf)  | [<img src="images/social_attachment.png" alt="drawing" width="200">](docs/papers_reports/social_attachment.pdf)|  [<img src="images/denis2.jpg" alt="drawing" width="200">](docs/papers_reports/bullying_design.pdf) | 
 
