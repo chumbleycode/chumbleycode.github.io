@@ -87,11 +87,11 @@ Representative grants and talks ...
 
 
 
-
+<div style="text-align:center"> </div>
 
 
 |   	|   	|   	|
 |---	|---	|---	|
-| Current work in Bayesian parameter ranking!  	| Bayesian life course models in developmental epidemiology! | Using behavioral games to study personality! |
-| [<img src="images/finest_order2.png" alt="drawing" width="400">](docs/papers_reports/fcr_apa.pdf)  | [<img src="images/range_apa.png" alt="drawing" width="400">](docs/papers_reports/range_apa.pdf)|  [<img src="images/pnas.png" alt="drawing" width="400">](docs/papers_reports/pnas.pdf) | 
+| <div style="text-align:center">  Current work in Bayesian parameter ranking! </div> 	| <div style="text-align:center">Bayesian life course models in developmental epidemiology! </div> | <div style="text-align:center"> Using behavioral games to study personality! </div> |
+| [<img src="images/finest_order2.png" alt="drawing" width="500">](docs/papers_reports/fcr_apa.pdf)  | [<img src="images/range_apa.png" alt="drawing" width="500">](docs/papers_reports/range_apa.pdf)|  [<img src="images/pnas.png" alt="drawing" width="500">](docs/papers_reports/pnas.pdf) | 
 
