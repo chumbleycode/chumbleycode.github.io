@@ -97,7 +97,7 @@
         var $anchor = $(this);
         $('html, body').stop().animate({
             scrollTop: $($anchor.attr('href')).offset().top - 80
-        }, 1500);
+        }, 500);
         event.preventDefault();
     });
 
