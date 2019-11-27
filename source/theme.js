@@ -84,7 +84,7 @@
                 nav: true,
                 items: 1,
                 autoplay: false,
-                smartSpeed: 1500,
+                smartSpeed: 15,
                 navContainer: '.blog_slider_area',
                 navText: ['<i class="fa fa-long-arrow-left" aria-hidden="true"></i>','<i class="fa fa-long-arrow-right" aria-hidden="true"></i>']
             });
@@ -97,7 +97,7 @@
         var $anchor = $(this);
         $('html, body').stop().animate({
             scrollTop: $($anchor.attr('href')).offset().top - 80
-        }, 100);
+        }, 15);
         event.preventDefault();
     });
 
