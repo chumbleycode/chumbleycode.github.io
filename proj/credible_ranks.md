@@ -25,4 +25,4 @@ We then ...
 
 ![](/images/finest_order2.png)
 
-The pdf is available [here](http://chumbleycode.github.io/chumbleycode.github.io/docs/papers_reports/fcr_apa.pdf).
+The pdf is available [here](http://chumbleycode.github.io/chumbleycode.github.iodocs/papers_reports/fcr_apa.pdf).
