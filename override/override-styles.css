@@ -1,0 +1,23 @@
+
+#logo-name {
+  color: black;
+  font-size: 45px;
+  font-weight: 700;
+}
+
+.about_person_area .person_details .person_information table td{
+  padding: 2px 10px 2px 0;
+}
+
+.blog-header {
+  margin-top: 10px;
+}
+.blog-dsc {
+  margin-top: 10px;
+  line-height: 15px;
+}
+
+.twitter_area.wow {
+  margin-bottom: 5px;
+}
+
