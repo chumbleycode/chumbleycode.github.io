@@ -806,7 +806,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
   transition-property: transform;
   transition-property: transform, -webkit-transform;
   transition-timing-function: ease-out;
-  transition-duration: 0.3s;
+  transition-duration: 0.00001s;
 }
 
 .portfolio_area .portfolio_list_inner .portfolio_item .portfolio_img img {
