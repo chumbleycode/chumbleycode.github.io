@@ -6,3 +6,5 @@
 * cloud computing
 
 * stratification/segmentation methods [here](https://www.qualtrics.com/uk/experience-management/brand/market-segmentation/)
+
+*  Proficiency with making data easily accessible to collaborators (e.g. Shiny, Dash), and experience with cloud computing
