@@ -5,4 +5,4 @@
 
 * cloud computing
 
-* stratification/segmentation methods [](https://www.qualtrics.com/uk/experience-management/brand/market-segmentation/)
+* stratification/segmentation methods ![here](https://www.qualtrics.com/uk/experience-management/brand/market-segmentation/)
