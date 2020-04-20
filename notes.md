@@ -10,3 +10,5 @@
 *  Proficiency with making data easily accessible to collaborators (e.g. Shiny, Dash) 
 
 * workflow management systems (e.g. Snakemake, Nextflow, Cromwell/WDL, Knime) [see here](http://blog.booleanbiotech.com/nextflow-snakemake-reflow.html) [and here](http://www.opiniomics.org/the-three-technologies-bioinformaticians-need-to-be-using-right-now/)
+
+* hadoop and spark are the competing frameworks for dealing with big data
