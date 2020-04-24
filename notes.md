@@ -13,4 +13,4 @@
 
 * hadoop (mature "ecosystem", two components: 1) MapReduce - an indexing was to do work on cluster (perhaps increasingly old), 2) HDFS - how to store the data as a file system) and spark (new) are the competing frameworks for dealing with big data (spark can process HDFS). They compete as a processing engine. Spark better for streaming. Hadoop-MapReduce was not built for realtime processing. https://www.youtube.com/watch?v=xDpvyu0w0C8
 
-* The dplyr methods convert your R code into SQL code before passing it to Spark
+* The dplyr methods convert your R code into SQL code before passing it to Spark. sparklyr also has two "native" interfaces that will be discussed in the next two chapters. Native means that they call Java or Scala code to access Spark libraries directly, without any conversion to SQL. sparklyr supports the Spark DataFrame Application Programming Interface (API), with functions that have an sdf_ prefix. It also supports access to Spark's machine learning library, MLlib, with "feature transformation" functions that begin ft_, and "machine learning" functions that begin ml_.
