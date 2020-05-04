@@ -17,4 +17,6 @@
 
 * Rank features by their average impurity reduction, over a forest. (When a tree splits the noise (overfits) the impurity goes down very little.) Then take a few of the best features, and retrain the classifier and show it works. Conclusion: you successfully . Random forest works for high dim, because you never compute distances (not curse of dimensionality). Only Gaussian processes and random forests give you an uncertainty estimate for you regression coefficients.
 
-* Bagging reduces variance (when training error is much less than test error) without affecting bias. So use on unbiased algorithms. Boosting reduces a bias problem: can you combine weak learners (which can't reduce training error to zero, for classification they only need do better than chance) to make a strong learner (which can): adaboost. Boosting is gradient descent on function space. Adaboost reduces bias, and really doesn't increase variance much. 
+* Bagging reduces variance (when training error is much less than test error) without affecting bias. So use on unbiased algorithms. Boosting reduces a bias problem: can you combine weak learners (which can't reduce training error to zero, for classification they only need do better than chance) to make a strong learner (which can): adaboost. Boosting is gradient descent on function space. Adaboost reduces bias, and really doesn't increase variance much
+
+* Using cross validation to find the hyperparameter controlling the penalty for tree complexity (number of leaves), i.e. Cost Complexity Pruning, aka Weakest Link Pruning. 
