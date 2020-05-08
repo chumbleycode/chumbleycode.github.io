@@ -21,7 +21,7 @@
 
 * For hypothesis classes with variable complexity: improve prediction by cross-validating - a parameter controlling - bias-variace, e.g. the penalty for tree complexity (number of leaves/cells in the partition). This is called Cost Complexity Pruning, aka Weakest Link Pruning. Similar hyperparameter for nearest neighbour algorithms. 
 
-* A nested sequence of partition trees (decision trees conveniently describe nested partition, like syntax trees describe nested operations). Decision trees give an ORDER to a set of subsets of datapoints (comparable or incomparable subsets of input space). The set of nested subtrees give partitions ordered by coarseness/refinenment. Does the finest partition seperate outputs by class? Should it? 
+* A nested sequence of partition trees (decision trees conveniently describe nested partition, like syntax trees describe nested operations). Decision trees give an ORDER to a set of subsets of datapoints (comparable or incomparable subsets of input space). The set of nested subtrees give partitions ordered by coarseness/refinenment. Does the finest partition seperate outputs by class? Should it? Coarse partition trees greatly overgeneralize about the output class (erroroneously label many units). Quantify the generalization error due to overgeneralization and undergeneralization (bias and variance).
 
  
 * Use out-of-bag sample to estimate generalization - prediction error - of a random forest. The preportion of out-of-bag samples that were incorrectly classified, the out-of-bag prediction error.
