@@ -19,8 +19,11 @@
 
 * Bagging reduces variance (when training error is much less than test error) without affecting bias. So use on unbiased algorithms. Boosting reduces a bias problem: can you combine weak learners (which can't reduce training error to zero, for classification they only need do better than chance) to make a strong learner (which can): adaboost. Boosting is gradient descent on function space. Adaboost reduces bias, and really doesn't increase variance much
 
-* Cost Complexity Pruning, aka Weakest Link Pruning: Use cross validation to find the hyperparameter controlling the penalty for tree complexity (number of leaves).
+* For hypothesis classes with variable complexity: improve prediction by cross-validating - a parameter controlling - bias-variace, e.g. the penalty for tree complexity (number of leaves/cells in the partition). This is called Cost Complexity Pruning, aka Weakest Link Pruning. Similar hyperparameter for nearest neighbour algorithms. 
 
+* A nested sequence of partition trees (decision trees conveniently describe nested partition, like syntax trees describe nested operations). Decision trees give an ORDER to a set of subsets of datapoints (comparable or incomparable subsets of input space). The set of nested subtrees give partitions ordered by coarseness/refinenment. Does the finest partition seperate outputs by class? Should it? 
+
+ 
 * Use out-of-bag sample to estimate generalization - prediction error - of a random forest. The preportion of out-of-bag samples that were incorrectly classified, the out-of-bag prediction error.
 
 * Tree interpretation: A tree encodes a partition of sample space or sample, a function on sample space or sample, a joint random variable p(fullpath(X), Y), i.e. p(X=fullpath)p(y|X=fullpath), a scalar random variable E(Y|X) or mode(Y|X) so that randomness in X implies a random path which implies a real value or discrete label. Viewed as a joint random variable (fullpath(X), Y) we can define the fullpath-conditional entropy  H(Y|fullpath(X)). Fullpaths are isomororphic with nodes. Trees have qualitative structure, aspects of the function, Random variable are described qualitatively. 
