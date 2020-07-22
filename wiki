@@ -1,3 +1,3 @@
 # Functional programming
 
-[aa](!https://en.wikipedia.org/wiki/Evaluation_strategy)
+[evaluation](https://en.wikipedia.org/wiki/Evaluation_strategy)
