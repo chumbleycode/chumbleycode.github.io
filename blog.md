@@ -2,4 +2,4 @@
 
 [Advanced R](Rmd/Rcode.html)
 
-[Advanced R](Rmd/Rcode.md)
+[Advanced R](Rmd/Rcode.Rmd)
