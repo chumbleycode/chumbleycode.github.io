@@ -1,3 +1,3 @@
-* say waa
+* Code and Notes
 
-[aoeua](Rmd/Rcode.html)
+[Advanced R](Rmd/Rcode.html)
